@@ -15,6 +15,8 @@
     # code at line 5.
 
     echo "Last line...................";
+
+echo "New line added at 10:06 AM.";
     ?>
 </body>
 
