@@ -1,7 +1,8 @@
-echo "Line one comes here.";
+echo "Line one comes here from child branch.";
 
-echo "Line two comes here.";
+echo "Line two comes here from child branch .";
 
-echo "Line three comes here."
+echo "Line three comes here from child branch."
 
+echo "New Line added via child branch."
 
